@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrownBackend.API", "CrownBackend.API\CrownBackend.API.csproj", "{506146F0-D030-4C29-8C1A-D9F53C8FB35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrownBackend.Domain", "CrownBackend.Domain\CrownBackend.Domain.csproj", "{BC1438EF-3AF9-497A-A7E9-E79705F48AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506146F0-D030-4C29-8C1A-D9F53C8FB35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506146F0-D030-4C29-8C1A-D9F53C8FB35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506146F0-D030-4C29-8C1A-D9F53C8FB35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506146F0-D030-4C29-8C1A-D9F53C8FB35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1438EF-3AF9-497A-A7E9-E79705F48AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1438EF-3AF9-497A-A7E9-E79705F48AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1438EF-3AF9-497A-A7E9-E79705F48AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1438EF-3AF9-497A-A7E9-E79705F48AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1018EF83-7BF0-4A4B-94F5-95763A5F8CA3}
+	EndGlobalSection
+EndGlobal

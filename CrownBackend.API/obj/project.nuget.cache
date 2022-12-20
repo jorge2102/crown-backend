@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgwYY0RGgLqK8F9noncn2n/W0gKEcmBw1Vi92motF/88kyGEpUQBqG5Wp/POx1xWx9GZtRB8gXMAvrQkkek7rA==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\dotnet\\LilabTest\\CrownBackend\\CrownBackend.API\\CrownBackend.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

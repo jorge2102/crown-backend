@@ -1,0 +1,12 @@
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\CrownBackend.Domain.csproj.AssemblyReference.cache
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\CrownBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\CrownBackend.Domain.AssemblyInfoInputs.cache
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\CrownBackend.Domain.AssemblyInfo.cs
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\CrownBackend.Domain.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\bin\Debug\net5.0\CrownBackend.Domain.deps.json
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\bin\Debug\net5.0\CrownBackend.Domain.dll
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\bin\Debug\net5.0\CrownBackend.Domain.pdb
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\CrownBackend.Domain.dll
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\refint\CrownBackend.Domain.dll
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\CrownBackend.Domain.pdb
+D:\projects\dotnet\LilabTest\CrownBackend\CrownBackend.Domain\obj\Debug\net5.0\ref\CrownBackend.Domain.dll

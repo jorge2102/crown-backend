@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CrownBackend.Domain/1.0.0": {
+        "runtime": {
+          "CrownBackend.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrownBackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
